@@ -4,7 +4,7 @@ spring:
   activate:
     on-profile: dev
   application:
-    name: cache
+    name: location-cache
   cloud:
     config:
       failFast: true
