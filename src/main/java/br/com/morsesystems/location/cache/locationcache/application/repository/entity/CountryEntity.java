@@ -11,7 +11,6 @@ import java.io.Serializable;
 * 
 */
 @Data
-@ToString
 @RedisHash
 @Builder
 @AllArgsConstructor
